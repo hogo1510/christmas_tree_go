@@ -31,6 +31,7 @@ Fijne Kerst Iedereen ! ! !
 ## How To use
 ```
 git clone https://github.com/hogo1510/christmas_tree_go/main
+cd christmas_tree_go/
 go run Main.go
 ```
 ## Be Aware !
